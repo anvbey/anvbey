@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Anvit Dubey 👨‍💻❤️</h1>
 
 
-- 🔭 I’m currently working on **Android Development, Open-source and side projects**
-- 🌱 I’m currently learning **DSA, Cloud Computing**
-- 👯 I’m looking to collaborate on **Open source projects involving Android Development, Java Development, Cloud Computing**
+- 🔭 I’m currently working on **Web Development, Open-source and side projects**
+- 🌱 I’ve experience in **DSA, Full-Stack Development & Cloud Computing**
+- 👯 I’m looking to collaborate on **Open source projects involving Android Development, Web Development, Cloud Computing**
 - 🤝 I'm looking to team-up for **Hackathons and coding competitions/events**
-- 🤔 I’m looking for help with **Competitive programming** 
-- 💬 Ask me about **Kotlin, Java, AWS, Linux**
+- 🤔 I’m open to for **Competitive programming** 
+- 💬 Ask me about **ReactJS, Kotlin, Java, Cloud, Linux**
 <br/> 
 
 <h2>📫Connect with me:</h2>
